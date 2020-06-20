@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Buck_Converter)(type KiCad)(uri ${KIPRJMOD}/libs/Buck_Converter.pretty)(options "")(descr ""))
+  (lib (name ESP32-footprints-Lib)(type KiCad)(uri ${KIPRJMOD}/libs/ESP32-footprints-Lib.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name ESP32-footprints-Shem-Lib)(type Legacy)(uri ${KIPRJMOD}/libs/ESP32-footprints-Shem-Lib.lib)(options "")(descr ""))
+  (lib (name espressif-xess)(type Legacy)(uri ${KIPRJMOD}/libs/espressif-xess.lib)(options "")(descr ""))
+  (lib (name buck_converter)(type Legacy)(uri ${KIPRJMOD}/libs/buck_converter.lib)(options "")(descr ""))
+)
